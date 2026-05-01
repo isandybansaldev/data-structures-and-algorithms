@@ -1,9 +1,6 @@
-# Day 01
+## Day 01
 
-## ✅ Problems Solved
+### ✅ Problems Solved
 
 1. [Search an element in an array](./search-element.js)
-   - **Type:** Array
-   - **Method:** Linear Search
-   - **Time Complexity:** O(n)
-   - **Space Complexity:** O(1)
+2. [Count Negative number](./count-negative-number.js)
