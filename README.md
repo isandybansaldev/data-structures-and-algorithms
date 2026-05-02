@@ -2,31 +2,15 @@
 
 This repository is focused on preparing for **FAANG / top product-based company interviews**.
 
-The approach is simple: **build strong problem-solving skills first**, then move towards **designing scalable systems**.
+### 📘 Data Structures & Algorithms (DSA) Course
 
-### It currently focuses on two key areas:
+A structured roadmap to master Data Structures and Algorithms for coding interviews, competitive programming, and strong problem-solving skills.
 
-* 🧠 Data Structures & Algorithms (DSA)
-* 🏗️ System Design
+🚀 **Objective**
 
-### 🚀 **How to Use This Repo**
+- Build strong problem-solving intuition
+- Master core data structures
+- Understand algorithmic patterns
+- Prepare for technical interviews (FAANG / product-based companies)
 
-* Start with DSA if you’re building problem-solving fundamentals
-* Move to System Design once you’re comfortable with coding interviews
-* Each section has its own detailed guide and roadmap
-
-### 📅 **Current Focus**
-
-* Practicing DSA daily
-* Pattern Recognition 
-* Strengthening core concepts
-* Gradually moving into system design
-
-### 🔗 **Sections**
-
-* 👉 [DSA](./dsa/README.md)
-* 👉 System Design (Coming Soon)
-
-### 🔄 **Updates**
-
-This repository is actively maintained and updated on a daily basis as part of ongoing preparation. New problems, notes, and improvements are added regularly.
+⏰ **Total Duration**: 12–16 Weeks
