@@ -3,6 +3,7 @@
 ### ✅ Problems Solved
 
 1. [Count Digit](./count-digit.js)
+2. [Is Palindrome Number](./is-palindrome-number.js)
 
 ### 📘 Notes
 
