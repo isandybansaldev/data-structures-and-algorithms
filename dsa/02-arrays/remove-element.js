@@ -1,15 +1,16 @@
 /**
  * @param {number[]} nums
+ * @param {number} val
  * @return {number}
  */
-var removeDuplicates = function (nums) {
+var removeElement = function (nums, val) {
   let x = 0;
   for (let i = 0; i < nums.length; i++) {
-    if (nums[x] !== nums[i]) {
-      nums[x + 1] = nums[i];
+    if (nums[i] !== val) {
+      nums[x] = nums[i];
       x++;
     }
   }
 
-  return x + 1;
+  return x;
 };

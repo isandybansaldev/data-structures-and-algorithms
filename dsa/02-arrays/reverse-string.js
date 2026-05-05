@@ -1,19 +1,15 @@
-let s = ["m", "a", "y", "a", "n", "k"];
-
-function reverseString(s) {
-  let x = 0;
-  let y = s.length - 1;
-
-  while (x < y) {
-    let temp = s[x];
-    s[x] = s[y];
-    s[y] = temp;
-    x++;
-    y--;
+/**
+ * @param {character[]} s
+ * @return {void} Do not return anything, modify s in-place instead.
+ */
+var reverseString = function (s) {
+  let p1 = 0;
+  let p2 = s.length - 1;
+  while (p1 < p2) {
+    let temp = s[p1];
+    s[p1] = s[p2];
+    s[p2] = temp;
+    p1++;
+    p2--;
   }
-
-  return s;
-}
-
-const result = reverseString(s);
-console.log(result);
+};

@@ -1,19 +1,23 @@
-let num = 2552;
+/**
+ * @param {number} x
+ * @return {boolean}
+ */
+var isPalindrome = function (x) {
+  // Negative number cannot be a palindrome
+  if (x < 0) return false;
 
-function isPalindromeNumber(n) {
-  // Negative number can never be a palindrome number
-  if (n < 0) return false;
+  let reverseNumber = 0;
+  let xCopy = x;
+  while (x > 0) {
+    // Get the last digit
+    let lastDigit = x % 10;
 
-  let nCopy = n;
-  let reverse = 0;
-  while (n > 0) {
-    let lastDigit = n % 10;
-    n = Math.trunc(n / 10);
-    reverse = reverse * 10 + lastDigit;
+    // Append to reverse
+    reverseNumber = reverseNumber * 10 + lastDigit;
+
+    // Remove last digit
+    x = Math.trunc(x / 10);
   }
 
-  return reverse === nCopy;
-}
-
-const result = isPalindromeNumber(num);
-console.log(result);
+  return reverseNumber === xCopy;
+};
