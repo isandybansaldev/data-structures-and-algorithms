@@ -2,7 +2,7 @@
 
 This repository is focused on preparing for **FAANG / top product-based company interviews**.
 
-### 📘 Data Structures & Algorithms (DSA) Course
+## 📘 Data Structures & Algorithms (DSA) Course
 
 A structured roadmap to master Data Structures and Algorithms for coding interviews, competitive programming, and strong problem-solving skills.
 
@@ -13,4 +13,7 @@ A structured roadmap to master Data Structures and Algorithms for coding intervi
 - Understand algorithmic patterns
 - Prepare for technical interviews (FAANG / product-based companies)
 
-⏰ **Total Duration**: 12–16 Weeks
+## Content
+
+- [Warm up](./dsa/warm-up/)
+- [Arrays (easy/medium)](./dsa/)

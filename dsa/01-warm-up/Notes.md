@@ -1,15 +1,6 @@
-## Day 01
+# 📘 Notes
 
-### ✅ Problems Solved
-
-1. [Search an element in an array](./search-element.js)
-2. [Count Negative number](./count-negative-number.js)
-3. [Find Largest number in an array](./find-largest-number.js)
-4. [Find Smallest number in an array](./find-smallest-number.js)
-
-### 📘 Notes
-
-**Why -1 is not a good starting value for finding the largest number**
+## Why -1 is not a good starting value for finding the largest number
 
 If you initialize the largest value as -1, it can give incorrect results when all numbers in the array are less than -1.
 
@@ -32,3 +23,30 @@ Initialize the largest value with negative infinity (-Infinity):
 
 - -Infinity is smaller than every possible number
 - So any number in the array will always be greater than it
+
+## Get the last digit from number
+
+```js
+let num = 439;
+let lastDigit = 439 % 10; // 9
+```
+
+## Remove the last digit from number
+
+Divide digit by 10 and truncate it
+
+```js
+let num = 1234;
+num = Math.trunc(num / 10); // 123
+
+👉 Math.trunc drop the fractional part
+```
+
+## Appending a digit to a number
+
+```js
+let n = 10;
+let d = 5;
+
+n = n * 10 + d; // 105
+```
