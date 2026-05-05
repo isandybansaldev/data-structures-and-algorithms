@@ -1,4 +1,4 @@
-## FAANG Prep
+# FAANG Prep
 
 This repository is focused on preparing for **FAANG / top product-based company interviews**.
 

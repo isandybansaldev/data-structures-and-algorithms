@@ -1,4 +1,4 @@
-## Arrays (Easy/Medium)
+# Arrays (Easy/Medium)
 
 ## ✅ Problems Solved
 
