@@ -9,8 +9,8 @@
 5. [Second Largest element in an array](./second-largest-number.js)
 6. [Star Patterns](./star-patterns.js)
 7. [Count Digit](./count-digit.js)
-8. [Is Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-9. [Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+8. [Is Palindrome Number](https://leetcode.com/problems/palindrome-number)
+9. [Reverse Integer](https://leetcode.com/problems/reverse-integer)
 
 ## Star Patterns
 
