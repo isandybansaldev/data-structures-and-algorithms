@@ -1,19 +1,6 @@
-# FAANG Prep
+# Data structures & Algorithms
 
-This repository is focused on preparing for **FAANG / top product-based company interviews**.
-
-## 📘 Data Structures & Algorithms (DSA) Course
-
-A structured roadmap to master Data Structures and Algorithms for coding interviews, competitive programming, and strong problem-solving skills.
-
-🚀 **Objective**
-
-- Build strong problem-solving intuition
-- Master core data structures
-- Understand algorithmic patterns
-- Prepare for technical interviews (FAANG / product-based companies)
-
-## Content
-
-- [Warm up](./dsa/warm-up/)
-- [Arrays (easy/medium)](./dsa/)
+- [Warm up](./01-warm-up/)
+- [Arrays](./02-arrays/)
+- [Recursion](./03-recursion/)
+- [Searching & Sorting](./04-searching-sorting/)
