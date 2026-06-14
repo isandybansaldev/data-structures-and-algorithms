@@ -2,9 +2,10 @@
 
 ## ✅ Problems Solved
 
-1. [Search an element in an array](./search-element.js)
-2. [Count Negative number](./count-negative-number.js)
-3. [Find Largest number in an array](./find-largest-number.js)
+1. [Linear Search](./linear-search/)
+2. [Count Negative numbers](./count-negative-number/)
+3. [Find the Largest Number in an Array](./find-largest-number/)
+
 4. [Find Smallest number in an array](./find-smallest-number.js)
 5. [Second Largest element in an array](./second-largest-number.js)
 6. [Star Patterns](./star-patterns.js)

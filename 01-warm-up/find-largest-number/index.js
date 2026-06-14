@@ -1,9 +1,5 @@
-let arr = [7, 0, 12, -9, 3, -2, 25, 4];
-let arr2 = [-10, -3, -50];
+let arr = [-10, -5, -20, -3];
 
-/**
- * Find Largest number in an array
- */
 function findLargestNumber(arr) {
   let largest = -Infinity;
   for (let i = 0; i < arr.length; i++) {
@@ -16,5 +12,4 @@ function findLargestNumber(arr) {
 }
 
 const result = findLargestNumber(arr);
-const result2 = findLargestNumber(arr2);
-console.log(result, result2);
+console.log(result);
