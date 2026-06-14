@@ -5,8 +5,8 @@
 1. [Linear Search](./linear-search/)
 2. [Count Negative numbers](./count-negative-number/)
 3. [Find the Largest Number in an Array](./find-largest-number/)
+4. [Find Smallest number in an array](./find-smallest-number/)
 
-4. [Find Smallest number in an array](./find-smallest-number.js)
 5. [Second Largest element in an array](./second-largest-number.js)
 6. [Star Patterns](./star-patterns.js)
 7. [Count Digit](./count-digit.js)
